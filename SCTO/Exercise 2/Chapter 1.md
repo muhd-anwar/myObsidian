@@ -1,0 +1,19 @@
+
+![](https://d3i71xaburhd42.cloudfront.net/1308ca90c47bc91a05cbac9b4eb578f6fb0b2d43/2-Figure1-1.png)
+# Chapter 1: Occlusion Handling in Augmented Reality
+
+Augmented reality (AR) is a technology that superimposes virtual objects (VOs) onto a real scene, creating a mixed reality experience for the user. One of the main challenges of AR is to achieve a realistic and seamless integration of the VOs and the real environment. To do so, AR applications must handle the occlusion problem, which occurs when a VO is partially or fully hidden by a real object, or vice versa, in the user’s view.
+
+Occlusion handling is essential for creating a convincing AR illusion, as it preserves the spatial and depth relationships between the VOs and the real objects, and enhances the user’s sense of immersion and presence. However, occlusion handling is also a complex and computationally expensive task, as it requires accurate estimation of the depth order and the occlusion regions between the VOs and the real objects, as well as realistic rendering of the occluded parts.
+
+In this chapter, we will review the state-of-the-art techniques and methods for occlusion handling in AR, and discuss their advantages and limitations. We will also identify the current open problems and future directions for research in this field. We will organize the chapter into the following sections:
+
+- Section 1.1: Occlusion Detection. [We will introduce the basic concepts and definitions of occlusion handling, and survey the different approaches for determining the depth order and the occlusion regions between the VOs and the real objects, such as contour-based, depth-based, and 3D reconstruction-based methods](https://ieeexplore.ieee.org/abstract/document/9560081/)[1](https://ieeexplore.ieee.org/abstract/document/9560081/)[2](https://link.springer.com/chapter/10.1007/978-3-031-04112-9_4)[3](https://www.emerald.com/insight/content/doi/10.1108/02602281011051399/full/html).
+- Section 1.2: Occlusion Rendering. [We will describe the various techniques for visualizing the occluded parts of the VOs and the real objects, such as alpha blending, hole filling, inpainting, and image-based rendering](https://www.computer.org/csdl/journal/tg/2023/02/09560081/1xtOqCv3vNe)[4](https://www.computer.org/csdl/journal/tg/2023/02/09560081/1xtOqCv3vNe)[5](https://link.springer.com/chapter/10.1007/978-3-642-41827-3_56).
+- Section 1.3: Occlusion Display. [We will examine the different types of AR displays and their impact on occlusion handling, such as optical see-through, video see-through, and projection-based displays](https://ieeexplore.ieee.org/abstract/document/9560081/)[1](https://ieeexplore.ieee.org/abstract/document/9560081/)[6](https://obsidian.md/).
+- Section 1.4: Occlusion Evaluation. [We will discuss the methods and metrics for evaluating the performance and the quality of occlusion handling in AR, such as accuracy, realism, consistency, and user satisfaction](https://ieeexplore.ieee.org/abstract/document/9560081/)[1](https://ieeexplore.ieee.org/abstract/document/9560081/)[7](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax).
+- Section 1.5: Conclusion. We will summarize the main findings and contributions of this chapter, and highlight the current challenges and future opportunities for occlusion handling in AR.
+
+We hope that this chapter will provide a comprehensive and up-to-date overview of occlusion handling in AR, and inspire new ideas and directions for further research and development in this exciting and important field.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WxJb20Lhrs?si=VMiMD9SUsSDrKyNR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

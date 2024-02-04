@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "9785fce016ded9f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d41889c0e27c08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "44d41889c0e27c08",
+  "lastOpenFiles": [
+    "Canvas/Test.canvas",
+    "Canvas/Start here.canvas",
+    "Canvas/Sample.canvas",
+    "Exercise 2/Chapter 3.md",
+    "Exercise 2/Chapter 4.md",
+    "__Media/SAR.png",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Kanban/Kanban board.md",
+    "Mind Map/Mind mapping.md",
+    "Queries/Homepage Queries.md#Article Projects.md",
+    "__Papers/2020 Mobile3DRecon Real-time Monocular 3D Reconstruction on a Mobile Phone.pdf",
+    "Dataview/Dataview 1a.md",
+    "Dataview/Dataview 1.md",
+    "Another note.md",
+    "Markdown/Markdown.md",
+    "📆 Activity/4 Feb 2024.md",
+    "📆 Activity/30 Jan 2024.md",
+    "AR Papers/Yang 2020.md",
+    "Dataview/👓 List of Papers.md",
+    "Kanban/MyKanban.md",
+    "AR Papers",
+    "📆 Activity/1 Feb 2024.md",
+    "📆 Activity/24 Dec 2022.md",
+    "1️⃣ Primary Sources/Pianka 1966.md",
+    "1️⃣ Primary Sources/Shabanov 2022a.md",
+    "1️⃣ Primary Sources/Waleed 2023.md",
+    "1️⃣ Primary Sources/Shahizan 2020.md",
+    "1️⃣ Primary Sources/Shabanov 2022b.md",
+    "__Media/augmented-reality-navigation.jpeg",
+    "__Media/Zettelkasten steps.png",
+    "__Papers/Dhekre 2023.pdf",
+    "__Papers/drones-07-00587.pdf",
+    "__Media/Pasted image 20221214122006.png",
+    "__Media/Pasted image 20221214122340.png",
+    "__Media/Pasted image 20221214123958.png",
+    "__Media/Pasted image 20221214124807.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "Exercise 2",
+    "Canvas/Homepage.canvas",
+    "Queries",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Markdown"
+  ]
+}
